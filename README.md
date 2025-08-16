@@ -1,1 +1,1 @@
-https://github.com/EgorDormidontov/ono-tebe-nado1
+https://github.com/EgorDormidontov/ono-tebe-nado
